@@ -194,7 +194,6 @@ curl "https://raw.githubusercontent.com/0xD34D/ender3-v3-se-klipper-config/main/
 ```
 echo '[e3v3se_display]' >> printer.cfg
 echo 'language: english' >> printer.cfg
-echo 'logging: True' >> printer.cfg
 ```
 
 
